@@ -1,6 +1,8 @@
 # medcouple
 A robust measure of skewness for univariate data Use medcouple (mrfDepth) With (In) R Software
 
+https://www.youtube.com/watch?v=B-Q6ryNY9Zw
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
